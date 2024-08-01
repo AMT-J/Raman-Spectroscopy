@@ -1,5 +1,11 @@
 # Raman-Spectroscopy
 
+
+## Requirements
+```
+conda create -n RS python=3.8
+pip install -r requirements.txt
+```
 ### Data Preprocessing
   1. Smoothning:
     * Moving average filter
